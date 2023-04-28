@@ -1,0 +1,2 @@
+# Hackintosh-13400-B660M-RX580
+适用于13400/B660M/RX580黑苹果OpenCore引导
